@@ -16,4 +16,7 @@ z2_frame_saved.m: Convert video to images
 
 ## Authors
 
+Liqiong Liu, Department of Information Engineering, The Chinese University of Hong Kong
+
 ## License
+
