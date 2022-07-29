@@ -15,8 +15,8 @@ The perspective transformation cannot be derived.
 ### Proposed anti-shaking algorithm
 Step 1: Find key points from the long-exposure image.
 Step 2: i) Apply phase correlation algorithm to the image blocks with key points at the center. ii) Calculate perspective transformation matrix based on the positions of key point pairs. iii) Generate transformed long-exposure image.
-
-https://github.com/Rabby3223/Anti-shaking-algorithm-for-NLOS-OCC/blob/main/algorithm.jpg
+  
+[https://github.com/Rabby3223/Anti-shaking-algorithm-for-NLOS-OCC/blob/main/algorithm.jpg](https://github.com/Rabby3223/Anti-shaking-algorithm-for-NLOS-OCC/blob/main/algorithm.jpg)
 
 ## Getting started
 
