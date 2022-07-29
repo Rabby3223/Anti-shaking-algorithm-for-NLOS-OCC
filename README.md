@@ -15,9 +15,7 @@ The perspective transformation cannot be derived.
 ### Proposed anti-shaking algorithm
 Step 1: Find key points from the long-exposure image.
 Step 2: i) Apply phase correlation algorithm to the image blocks with key points at the center. ii) Calculate perspective transformation matrix based on the positions of key point pairs. iii) Generate transformed long-exposure image.
-Track the unconcise hand movement with corrupted images
-The lightweight algorithm can support real-time processing on smartphones.
-![image](https://user-images.githubusercontent.com/27682089/181799512-5ca74b57-6d0f-402a-b3bd-c2fc6176f1b5.png)
+
 
 
 ## Getting started
