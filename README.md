@@ -38,3 +38,5 @@ Liqiong Liu, Department of Information Engineering, The Chinese University of Ho
 ## License
 
 Distributed under the MIT License.
+
+[1] L. Liu and L. -K. Chen, "Li-poster: Real-time Non-line-of-sight Optical Camera Communication for Hand-held Smartphone Applications," in 2021 Optical Fiber Communications Conference and Exhibition (OFC), 2021, pp. 1-3.
