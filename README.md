@@ -5,8 +5,8 @@ The NLOS OCC system using reflected light exhibits its advantages, such as (i) r
 
 ## Getting started
 
-Anaconda3  
-Matlab2021b  
+Anaconda 3  
+Matlab 2021b  
   
 0.jpeg: Image captured with long exposure time  
 1618053369425.mp4：Video captured with low expsoure time  
