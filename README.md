@@ -5,6 +5,15 @@ The NLOS OCC system using reflected light exhibits its advantages, such as (i) r
 
 ## Getting started
 
+Anaconda3
+Matlab2021b
+
+0.jpeg: Image captured with long exposure time
+1618053369425.mp4：Video captured with low expsoure time
+anti_shaking.py: Anti-shaking algorithm
+mutual_information.py: Calculate mutual information between the low=exposure image and long-exposure image
+z2_frame_saved.m: Convert video to images
+
 ## Authors
 
 ## License
